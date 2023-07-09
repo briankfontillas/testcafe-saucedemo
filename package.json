@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "esm": "^3.2.25"
+  },
+  "type":"module",
+  "devDependencies": {
+    "@babel/core": "^7.21.4",
+    "@babel/plugin-transform-modules-commonjs": "^7.21.2",
+    "@babel/preset-env": "^7.21.4",
+    "@babel/register": "^7.21.0",
+    "testcafe": "^1.7.0"
+  }
+}
